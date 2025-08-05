@@ -1,2 +1,5 @@
 # git-init
-Automatisation des candidatures au poste de "Assistant Comprtable" dans un rayon de 30 kms autour de Poussan.
+# Bot candidatures « Assistant comptable »
+Ce service automatise l’envoi de candidatures en CDI dans un rayon de 30 km autour de Poussan.  
+Contact : alainferro34@gmail.com
+
